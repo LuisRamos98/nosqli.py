@@ -1,12 +1,4 @@
-## Laboratorio NoSQLI
-
----
-tags:
-  - laboratoriopractico
-  - nosql
-  - nosqli
-  - inyeccionnosql
----
+# Laboratorio NoSQLI
 ----
 # Preparando el laboratorio
 
